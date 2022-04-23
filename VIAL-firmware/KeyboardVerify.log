@@ -1,0 +1,3 @@
+    WARNING: By convention, the last entry in the dead key table for ''' (U+0027) should be a space (to create a spacing version of the dead key).
+    WARNING: Caps Lock is set between ',' and '<' (VK_M, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is not set between 'i' and 'I' (VK_OEM_1, ShiftStates 'Base' and 'Shift').

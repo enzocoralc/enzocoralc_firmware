@@ -1,0 +1,5 @@
+QMK_SETTINGS = no
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+VIAL_INSECURE = yes
+LTO_ENABLE = yes
